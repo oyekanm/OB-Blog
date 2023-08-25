@@ -8,6 +8,7 @@
         "dest": "/api/index.php"
     }],
     "env": {
+        "APP_NAME": "O|B Blog",
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://bot.laravel-livewire.com",
